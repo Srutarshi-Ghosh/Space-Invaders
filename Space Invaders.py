@@ -1,7 +1,6 @@
 import pygame
 import random
-import os, cv2
-import numpy as np
+import os
 
 
 img_dir = os.path.join(os.path.dirname(__file__), "img")
